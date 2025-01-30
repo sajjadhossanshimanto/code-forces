@@ -1,21 +1,23 @@
 n, k = map(int, input().split())
 nums = list(map(int, input().split()))
 
-div = n-(k-1)
+pre_sum = [0]*n
+pre_sum[0] = nums[0]
+for i in range(1, n):
+    pre_sum[i]=pre_sum[i-1] + nums[i]
+# print(pre_sum)
 
-freq = min(n-k+1, k)
+def range_sum(l, r):
+    return pre_sum[r] - (pre_sum[l-1] if l > 0 else 0)
+
 total = 0
-for i in range(freq-1, len(nums)-freq+1):
-    total+=nums[i]
+# k-=1
+for i in range(k-1, n):
+    total += range_sum(i-k+1, i)
+    # print((i-k+1, i))
 
-
-for i in range(k-1):
-    #         (num * freq)  / div
-    total += (nums[i]*(i+1))/div
-    total += (nums[len(nums)-i-1]*(i+1))/div
-
-print("{:.6f}".format(total))
-
+# print(total)
+print(total/(n-k+1))
 
 #%%
 '''
