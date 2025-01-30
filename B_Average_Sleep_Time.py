@@ -3,11 +3,11 @@ nums = list(map(int, input().split()))
 
 div = n-(k-1)
 
+freq = min(n-k+1, k)
 total = 0
-for i in range(k-1, len(nums)-k+1):
+for i in range(freq-1, len(nums)-freq+1):
     total+=nums[i]
-total = total*k/div
-# print(total)
+
 
 for i in range(k-1):
     #         (num * freq)  / div
@@ -15,3 +15,16 @@ for i in range(k-1):
     total += (nums[len(nums)-i-1]*(i+1))/div
 
 print("{:.6f}".format(total))
+
+
+#%%
+'''
+10 7
+8 16 2 13 15 9 5 13 9 2
+
+ans: 68.25
+out: 110.some
+wrong ans because all nums are not at max frequency
+
+'''
+
