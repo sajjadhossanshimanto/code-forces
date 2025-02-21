@@ -28,8 +28,10 @@ for _ in range(int(input())):
     for i in maxes[0]:
         for j in maxes[1]:
             if i[1]==j[1]: continue
+            
             for k in maxes[2]:
                 if j[1]==k[1]: continue
+                if i[1]==k[1]: continue# CAREFULL: mistake happens
 
                 ans = max(i[0]+k[0]+j[0], ans)
 
