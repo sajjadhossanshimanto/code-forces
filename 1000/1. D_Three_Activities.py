@@ -5,6 +5,12 @@ def find_pos(list_var, i, mx_idx):
 
     for j in range(3):
         if list_var[i]>maxes[mx_idx][j][0]:
+            # before replacing with new value check if this can be placed to a later pos
+            for k in range(j+1, 3):
+                if maxes[mx_idx][j][0]>maxes[mx_idx][k][0]:
+                    maxes[mx_idx][k] = maxes[mx_idx][j]
+                    break
+            
             maxes[mx_idx][j] = (list_var[i], i)
             return
 
@@ -23,6 +29,7 @@ for _ in range(int(input())):
         find_pos(movie, i, 1)
         find_pos(games, i, 2)
 
+    # print(maxes)
     # do not over think. try all the possible value and take the. as there will be max 27 combinations
     ans = 0
     for i in maxes[0]:
