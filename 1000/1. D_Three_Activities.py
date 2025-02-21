@@ -2,12 +2,15 @@
 
 def find_pos(list_var, i, mx_idx):
 
-    if list_var[i]>maxes[mx_idx][0][0]:
-        maxes[0][0] = (list_var[i], i)
-    elif list_var[i]>maxes[mx_idx][1][0]:
-        maxes[0][1] = (list_var[i], i)
-    elif list_var[i]>maxes[mx_idx][2][0]:
-        maxes[0][2] = (list_var[i], i)
+    for j in range(3):
+        if list_var[i]>maxes[mx_idx][0][j]:
+            maxes[0][j] = (list_var[i], i)
+            return
+        
+    # elif list_var[i]>maxes[mx_idx][1][0]:
+    #     maxes[0][1] = (list_var[i], i)
+    # elif list_var[i]>maxes[mx_idx][2][0]:
+    #     maxes[0][2] = (list_var[i], i)
 
 for _ in range(int(input())):
     n = int(input())
