@@ -6,10 +6,9 @@ def find_pos(list_var, i, mx_idx):
     for j in range(3):
         if list_var[i]>maxes[mx_idx][j][0]:
             # before replacing with new value check if this can be placed to a later pos
-            for k in range(j+1, 3):
-                if maxes[mx_idx][j][0]>maxes[mx_idx][k][0]:
-                    maxes[mx_idx][k] = maxes[mx_idx][j]
-                    break
+            for k in range(2, j, -1):
+                # shipt all one place back unconditionaly
+                maxes[mx_idx][k] = maxes[mx_idx][k-1]
             
             maxes[mx_idx][j] = (list_var[i], i)
             return
