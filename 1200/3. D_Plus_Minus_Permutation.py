@@ -43,3 +43,26 @@ time complexity: O(t)
 for range and set operation O(n)
 sum O(1)
 '''
+# %% 3rd approach
+# find cummon part in o(1)
+import math
+
+
+def range_sum(l, r):
+    ''' sum of numbers from l to r 
+    formula: (first + last) * n//2
+    '''
+    return (l+r)*(r-l+1)//2
+
+for _ in range(int(input())):
+    n, plus, minus = map(int, input().split())
+    
+    lcm = (plus * minus) // math.gcd(plus, minus)
+    cummon = n // lcm
+    plus_num = n//plus-(cummon)
+    minus_num = n//minus-(cummon)
+    
+    plus = range_sum(n-plus_num+1, n)
+    minus = range_sum(1, minus_num)
+    
+    print(plus - minus)
