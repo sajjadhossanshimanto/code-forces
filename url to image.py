@@ -137,6 +137,40 @@ def delete_element(element):
     element.parentNode.removeChild(element);
     """, element)
 
+def webpage_to_pdf(output_path):    
+    # Configure print parameters
+    print_options = {
+        'landscape': False,
+        'displayHeaderFooter': False,
+        'printBackground': True,
+        'paperWidth': 8.27,  # A4 width in inches
+        'paperHeight': 11.69,  # A4 height in inches
+        # 'marginTop': 0.75,
+        # 'marginBottom': 0.75,
+        # 'marginLeft': 0.75,
+        # 'marginRight': 0.75,
+        'scale': 1
+    }
+    
+    # Execute print to PDF command
+    result = driver.execute_cdp_cmd('Page.printToPDF', print_options)
+    
+    # Decode base64 PDF data and save
+    pdf_data = base64.b64decode(result['data'])
+    with open(output_path, 'wb') as file:
+        file.write(pdf_data)
+        
+    print(f"PDF successfully created at {output_path}")
+
+
+# Set up Chrome options
+chrome_options = Options()
+# chrome_options.add_argument('--headless')  # Run in background
+# chrome_options.add_argument('--disable-gpu')
+
+# Initialize driver
+driver = webdriver.Chrome(options=chrome_options)
+driver.get(url)
 
 # Usage
 # url = "https://example.com"
