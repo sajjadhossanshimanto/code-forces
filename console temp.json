@@ -1,0 +1,1886 @@
+{
+    "800": [
+        {
+            "id": "659121083120ec879284fc21",
+            "name": "Halloumi Boxes",
+            "link": "https://codeforces.com/problemset/problem/1903/A"
+        },
+        {
+            "id": "659121183120ec879284fd6c",
+            "name": "Line Trip",
+            "link": "https://codeforces.com/problemset/problem/1901/A"
+        },
+        {
+            "id": "659121b23120ec87928508c5",
+            "name": "Cover in Water",
+            "link": "https://codeforces.com/problemset/problem/1900/A"
+        },
+        {
+            "id": "659121be3120ec8792850963",
+            "name": "Game with Integers",
+            "link": "https://codeforces.com/problemset/problem/1899/A"
+        },
+        {
+            "id": "659121d33120ec8792850acb",
+            "name": "Jagged Swaps",
+            "link": "https://codeforces.com/problemset/problem/1896/A"
+        },
+        {
+            "id": "659121de3120ec8792850b72",
+            "name": "Doremy's Paint 3",
+            "link": "https://codeforces.com/problemset/problem/1890/A"
+        },
+        {
+            "id": "659121f03120ec8792850c39",
+            "name": "Don't Try to Count",
+            "link": "https://codeforces.com/problemset/problem/1881/A"
+        },
+        {
+            "id": "659122073120ec8792850dd7",
+            "name": "How Much Does Daytona Cost?",
+            "link": "https://codeforces.com/problemset/problem/1878/A"
+        },
+        {
+            "id": "6591222e3120ec8792851021",
+            "name": "Goals of Victory",
+            "link": "https://codeforces.com/problemset/problem/1877/A"
+        },
+        {
+            "id": "659122d23120ec8792851b4c",
+            "name": "Target Practice",
+            "link": "https://codeforces.com/problemset/problem/1873/C"
+        },
+        {
+            "id": "659122dd3120ec8792851c24",
+            "name": "Ambitious Kid",
+            "link": "https://codeforces.com/problemset/problem/1866/A"
+        },
+        {
+            "id": "659122ec3120ec8792851d7c",
+            "name": "Sequence Game",
+            "link": "https://codeforces.com/problemset/problem/1862/B"
+        },
+        {
+            "id": "659122fa3120ec8792851e2d",
+            "name": "United We Stand",
+            "link": "https://codeforces.com/problemset/problem/1859/A"
+        },
+        {
+            "id": "659123063120ec8792851fd1",
+            "name": "Buttons",
+            "link": "https://codeforces.com/problemset/problem/1858/A"
+        },
+        {
+            "id": "6591231b3120ec87928520f7",
+            "name": "Array Coloring",
+            "link": "https://codeforces.com/problemset/problem/1857/A"
+        },
+        {
+            "id": "659123263120ec879285215d",
+            "name": "Desorting",
+            "link": "https://codeforces.com/problemset/problem/1853/A"
+        },
+        {
+            "id": "659123313120ec879285221b",
+            "name": "Forbidden Integer",
+            "link": "https://codeforces.com/problemset/problem/1845/A"
+        },
+        {
+            "id": "6591233b3120ec8792852338",
+            "name": "Grasshopper on a Line",
+            "link": "https://codeforces.com/problemset/problem/1837/A"
+        },
+        {
+            "id": "659123483120ec87928523d7",
+            "name": "Unit Array",
+            "link": "https://codeforces.com/problemset/problem/1834/A"
+        },
+        {
+            "id": "659123533120ec8792852490",
+            "name": "Twin Permutations",
+            "link": "https://codeforces.com/problemset/problem/1831/A"
+        },
+        {
+            "id": "6591235f3120ec8792852571",
+            "name": "Blank Space",
+            "link": "https://codeforces.com/problemset/problem/1829/B"
+        },
+        {
+            "id": "659123693120ec879285269a",
+            "name": "Coins",
+            "link": "https://codeforces.com/problemset/problem/1814/A"
+        },
+        {
+            "id": "659123cd3120ec8792852c18",
+            "name": "Walking Master",
+            "link": "https://codeforces.com/problemset/problem/1806/A"
+        },
+        {
+            "id": "659123d93120ec8792852da4",
+            "name": "We Need the Zero",
+            "link": "https://codeforces.com/problemset/problem/1805/A"
+        },
+        {
+            "id": "659123e33120ec8792852e2d",
+            "name": "Prepend and Append",
+            "link": "https://codeforces.com/problemset/problem/1791/C"
+        },
+        {
+            "id": "659123ec3120ec8792852eb3",
+            "name": "Serval and Mocha's Array",
+            "link": "https://codeforces.com/problemset/problem/1789/A"
+        },
+        {
+            "id": "659123f63120ec8792852fb7",
+            "name": "One and Two",
+            "link": "https://codeforces.com/problemset/problem/1788/A"
+        },
+        {
+            "id": "659123fe3120ec879285308e",
+            "name": "Make it Beautiful",
+            "link": "https://codeforces.com/problemset/problem/1783/A"
+        },
+        {
+            "id": "659124083120ec879285311a",
+            "name": "Everybody Likes Good Arrays!",
+            "link": "https://codeforces.com/problemset/problem/1777/A"
+        },
+        {
+            "id": "659124133120ec8792853170",
+            "name": "Extremely Round",
+            "link": "https://codeforces.com/problemset/problem/1766/A"
+        },
+        {
+            "id": "659124253120ec879285334b",
+            "name": "Two Permutations",
+            "link": "https://codeforces.com/problemset/problem/1761/A"
+        }
+    ],
+    "900": [
+        {
+            "id": "659141a93120ec8792872c60",
+            "name": "Forked!",
+            "link": "https://codeforces.com/problemset/problem/1904/A"
+        },
+        {
+            "id": "659141b33120ec8792872de3",
+            "name": "Chemistry",
+            "link": "https://codeforces.com/problemset/problem/1883/B"
+        },
+        {
+            "id": "659141bd3120ec8792872eac",
+            "name": "Vasilije in Cacak",
+            "link": "https://codeforces.com/problemset/problem/1878/C"
+        },
+        {
+            "id": "659141c83120ec8792872f2c",
+            "name": "Jellyfish and Undertale",
+            "link": "https://codeforces.com/problemset/problem/1875/A"
+        },
+        {
+            "id": "659141d13120ec8792872f7a",
+            "name": "Make It Zero",
+            "link": "https://codeforces.com/problemset/problem/1869/A"
+        },
+        {
+            "id": "659141da3120ec8792873025",
+            "name": "Longest Divisors Interval",
+            "link": "https://codeforces.com/problemset/problem/1855/B"
+        },
+        {
+            "id": "659141e33120ec87928730d6",
+            "name": "Balanced Round",
+            "link": "https://codeforces.com/problemset/problem/1850/D"
+        },
+        {
+            "id": "659141eb3120ec8792873119",
+            "name": "Comparison String",
+            "link": "https://codeforces.com/problemset/problem/1837/B"
+        },
+        {
+            "id": "659141f43120ec87928731ee",
+            "name": "Permutation Swap",
+            "link": "https://codeforces.com/problemset/problem/1828/B"
+        },
+        {
+            "id": "659141fe3120ec8792873254",
+            "name": "Odd Queries",
+            "link": "https://codeforces.com/problemset/problem/1807/D"
+        },
+        {
+            "id": "659142063120ec8792873309",
+            "name": "Not Dividing",
+            "link": "https://codeforces.com/problemset/problem/1794/B"
+        },
+        {
+            "id": "659142103120ec8792873355",
+            "name": "Mainak and Array",
+            "link": "https://codeforces.com/problemset/problem/1726/A"
+        },
+        {
+            "id": "6591421a3120ec8792873410",
+            "name": "NIT Destroys the Universe",
+            "link": "https://codeforces.com/problemset/problem/1696/B"
+        },
+        {
+            "id": "659142253120ec87928735bd",
+            "name": "AvtoBus",
+            "link": "https://codeforces.com/problemset/problem/1679/A"
+        },
+        {
+            "id": "659142353120ec879287378a",
+            "name": "Make It Increasing",
+            "link": "https://codeforces.com/problemset/problem/1675/B"
+        },
+        {
+            "id": "6591423f3120ec8792873803",
+            "name": "Deletive Editing",
+            "link": "https://codeforces.com/problemset/problem/1666/D"
+        },
+        {
+            "id": "659142493120ec8792873878",
+            "name": "Array Cloning Technique",
+            "link": "https://codeforces.com/problemset/problem/1665/B"
+        },
+        {
+            "id": "659142513120ec8792873917",
+            "name": "Make AP",
+            "link": "https://codeforces.com/problemset/problem/1624/B"
+        },
+        {
+            "id": "659142593120ec87928739a3",
+            "name": "Odd Grasshopper",
+            "link": "https://codeforces.com/problemset/problem/1607/B"
+        },
+        {
+            "id": "659142643120ec8792873a16",
+            "name": "AB Balance",
+            "link": "https://codeforces.com/problemset/problem/1606/A"
+        },
+        {
+            "id": "6591426c3120ec8792873b15",
+            "name": "Make it Divisible by 25",
+            "link": "https://codeforces.com/problemset/problem/1593/B"
+        },
+        {
+            "id": "659142743120ec8792873b9d",
+            "name": "Luntik and Subsequences",
+            "link": "https://codeforces.com/problemset/problem/1582/B"
+        },
+        {
+            "id": "6591427d3120ec8792873c65",
+            "name": "Mocha and Math",
+            "link": "https://codeforces.com/problemset/problem/1559/A"
+        },
+        {
+            "id": "6591428a3120ec8792873cc7",
+            "name": "Exciting Bets",
+            "link": "https://codeforces.com/problemset/problem/1543/A"
+        },
+        {
+            "id": "659142923120ec8792873db0",
+            "name": "Bad Boy",
+            "link": "https://codeforces.com/problemset/problem/1537/B"
+        },
+        {
+            "id": "6591429b3120ec8792873e70",
+            "name": "Odd Divisor",
+            "link": "https://codeforces.com/problemset/problem/1475/A"
+        },
+        {
+            "id": "659142a73120ec8792873fd2",
+            "name": "Strange Partition",
+            "link": "https://codeforces.com/problemset/problem/1471/A"
+        },
+        {
+            "id": "659142af3120ec879287406c",
+            "name": "Sum of Medians",
+            "link": "https://codeforces.com/problemset/problem/1440/B"
+        },
+        {
+            "id": "659142b83120ec87928740f9",
+            "name": "Three Indices",
+            "link": "https://codeforces.com/problemset/problem/1380/A"
+        },
+        {
+            "id": "659142c33120ec879287415b",
+            "name": "01 Game",
+            "link": "https://codeforces.com/problemset/problem/1373/B"
+        },
+        {
+            "id": "659142cd3120ec879287423a",
+            "name": "Multiply by 2, divide by 6",
+            "link": "https://codeforces.com/problemset/problem/1374/B"
+        }
+    ],
+    "1000": [
+        {
+            "id": "659142ea3120ec8792874417",
+            "name": "Swap and Delete",
+            "link": "https://codeforces.com/problemset/problem/1913/B"
+        },
+        {
+            "id": "659142f53120ec87928744de",
+            "name": "Raspberries",
+            "link": "https://codeforces.com/problemset/problem/1883/C"
+        },
+        {
+            "id": "659142ff3120ec8792874554",
+            "name": "Helmets in Night Light",
+            "link": "https://codeforces.com/problemset/problem/1876/A"
+        },
+        {
+            "id": "6591430a3120ec8792874647",
+            "name": "Olya and Game with Arrays",
+            "link": "https://codeforces.com/problemset/problem/1859/B"
+        },
+        {
+            "id": "659143143120ec87928746ff",
+            "name": "Monsters",
+            "link": "https://codeforces.com/problemset/problem/1849/B"
+        },
+        {
+            "id": "659143203120ec8792874859",
+            "name": "Ski Resort",
+            "link": "https://codeforces.com/problemset/problem/1840/C"
+        },
+        {
+            "id": "6591432b3120ec87928748dd",
+            "name": "Array merging",
+            "link": "https://codeforces.com/problemset/problem/1831/B"
+        },
+        {
+            "id": "659143363120ec8792874964",
+            "name": "Distinct Split",
+            "link": "https://codeforces.com/problemset/problem/1791/D"
+        },
+        {
+            "id": "6591433f3120ec87928749a3",
+            "name": "Minimum LCM",
+            "link": "https://codeforces.com/problemset/problem/1765/M"
+        },
+        {
+            "id": "659143493120ec8792874a9b",
+            "name": "Traffic Light",
+            "link": "https://codeforces.com/problemset/problem/1744/C"
+        },
+        {
+            "id": "659143553120ec8792874b6d",
+            "name": "Basketball Together",
+            "link": "https://codeforces.com/problemset/problem/1725/B"
+        },
+        {
+            "id": "659143603120ec8792874bfe",
+            "name": "Beautiful Array",
+            "link": "https://codeforces.com/problemset/problem/1715/B"
+        },
+        {
+            "id": "6591436b3120ec8792874cb9",
+            "name": "Luke is a Foodie",
+            "link": "https://codeforces.com/problemset/problem/1704/B"
+        },
+        {
+            "id": "659143753120ec8792874d1b",
+            "name": "Shoe Shuffling",
+            "link": "https://codeforces.com/problemset/problem/1691/B"
+        },
+        {
+            "id": "659143803120ec8792874df8",
+            "name": "Black and White Stripe",
+            "link": "https://codeforces.com/problemset/problem/1690/D"
+        },
+        {
+            "id": "6591438a3120ec8792874ee6",
+            "name": "Red Versus Blue",
+            "link": "https://codeforces.com/problemset/problem/1659/A"
+        },
+        {
+            "id": "659143933120ec8792874fb1",
+            "name": "Roof Construction",
+            "link": "https://codeforces.com/problemset/problem/1632/B"
+        },
+        {
+            "id": "6591439c3120ec87928750b0",
+            "name": "Triangles on a Rectangle",
+            "link": "https://codeforces.com/problemset/problem/1620/B"
+        },
+        {
+            "id": "659143a53120ec8792875135",
+            "name": "Divan and a New Project",
+            "link": "https://codeforces.com/problemset/problem/1614/B"
+        },
+        {
+            "id": "659143af3120ec87928751a2",
+            "name": "MEXor Mixup",
+            "link": "https://codeforces.com/problemset/problem/1567/B"
+        },
+        {
+            "id": "659143ba3120ec8792875267",
+            "name": "Double-ended Strings",
+            "link": "https://codeforces.com/problemset/problem/1506/C"
+        },
+        {
+            "id": "659143c43120ec8792875301",
+            "name": "Add and Divide",
+            "link": "https://codeforces.com/problemset/problem/1485/A"
+        },
+        {
+            "id": "659143ce3120ec87928753fe",
+            "name": "Different Divisors",
+            "link": "https://codeforces.com/problemset/problem/1474/B"
+        },
+        {
+            "id": "659143db3120ec87928754c0",
+            "name": "Numbers Box",
+            "link": "https://codeforces.com/problemset/problem/1447/B"
+        },
+        {
+            "id": "659143e53120ec87928755aa",
+            "name": "Valerii Against Everyone",
+            "link": "https://codeforces.com/problemset/problem/1438/B"
+        },
+        {
+            "id": "659143ed3120ec87928755d5",
+            "name": "Buying Torches",
+            "link": "https://codeforces.com/problemset/problem/1418/A"
+        },
+        {
+            "id": "659143f83120ec87928756d2",
+            "name": "Fair Numbers",
+            "link": "https://codeforces.com/problemset/problem/1411/B"
+        },
+        {
+            "id": "659144023120ec879287579e",
+            "name": "Move Brackets",
+            "link": "https://codeforces.com/problemset/problem/1374/C"
+        },
+        {
+            "id": "659144093120ec8792875853",
+            "name": "Johnny and Ancient Computer",
+            "link": "https://codeforces.com/problemset/problem/1362/A"
+        },
+        {
+            "id": "659144153120ec8792875985",
+            "name": "Bogosort",
+            "link": "https://codeforces.com/problemset/problem/1312/B"
+        },
+        {
+            "id": "6591441e3120ec8792875a01",
+            "name": "Reverse a Substring",
+            "link": "https://codeforces.com/problemset/problem/1155/A"
+        }
+    ],
+    "1100": [
+        {
+            "id": "659144483120ec8792875cec",
+            "name": "Erase First or Second Letter",
+            "link": "https://codeforces.com/problemset/problem/1917/B"
+        },
+        {
+            "id": "6591445b3120ec8792875e22",
+            "name": "Quests",
+            "link": "https://codeforces.com/problemset/problem/1914/C"
+        },
+        {
+            "id": "659144653120ec8792875e66",
+            "name": "Collecting Game",
+            "link": "https://codeforces.com/problemset/problem/1904/B"
+        },
+        {
+            "id": "6591446f3120ec8792875f17",
+            "name": "Yarik and Array",
+            "link": "https://codeforces.com/problemset/problem/1899/C"
+        },
+        {
+            "id": "659144783120ec8792875fd8",
+            "name": "250 Thousand Tons of TNT",
+            "link": "https://codeforces.com/problemset/problem/1899/B"
+        },
+        {
+            "id": "659144833120ec8792876090",
+            "name": "Deja Vu",
+            "link": "https://codeforces.com/problemset/problem/1891/B"
+        },
+        {
+            "id": "6591448c3120ec8792876192",
+            "name": "Building an Aquarium",
+            "link": "https://codeforces.com/problemset/problem/1873/E"
+        },
+        {
+            "id": "659144963120ec87928761f4",
+            "name": "2D Traveling",
+            "link": "https://codeforces.com/problemset/problem/1869/B"
+        },
+        {
+            "id": "6591449f3120ec879287627f",
+            "name": "Cardboard for Pictures",
+            "link": "https://codeforces.com/problemset/problem/1850/E"
+        },
+        {
+            "id": "659144a73120ec87928762c0",
+            "name": "Tenzing and Books",
+            "link": "https://codeforces.com/problemset/problem/1842/B"
+        },
+        {
+            "id": "659144b23120ec8792876450",
+            "name": "Maximum Sum",
+            "link": "https://codeforces.com/problemset/problem/1832/B"
+        },
+        {
+            "id": "659144ba3120ec87928764f0",
+            "name": "Counting Orders",
+            "link": "https://codeforces.com/problemset/problem/1827/A"
+        },
+        {
+            "id": "659144c33120ec87928765f2",
+            "name": "Lunatic Never Content",
+            "link": "https://codeforces.com/problemset/problem/1826/B"
+        },
+        {
+            "id": "659144cd3120ec8792876686",
+            "name": "Sort the Subarray",
+            "link": "https://codeforces.com/problemset/problem/1821/B"
+        },
+        {
+            "id": "659144d83120ec8792876737",
+            "name": "JoJo's Incredible Adventures",
+            "link": "https://codeforces.com/problemset/problem/1820/B"
+        },
+        {
+            "id": "659144e33120ec87928767bc",
+            "name": "Subsequence Addition (Hard Version)",
+            "link": "https://codeforces.com/problemset/problem/1807/G2"
+        },
+        {
+            "id": "659144ed3120ec87928768fe",
+            "name": "Li Hua and Pattern",
+            "link": "https://codeforces.com/problemset/problem/1797/B"
+        },
+        {
+            "id": "659144f83120ec87928769ce",
+            "name": "Teleporters (Easy Version)",
+            "link": "https://codeforces.com/problemset/problem/1791/G1"
+        },
+        {
+            "id": "659145043120ec8792876b2e",
+            "name": "Negatives and Positives",
+            "link": "https://codeforces.com/problemset/problem/1791/E"
+        },
+        {
+            "id": "659145113120ec8792876c24",
+            "name": "GCD Partition",
+            "link": "https://codeforces.com/problemset/problem/1780/B"
+        },
+        {
+            "id": "6591451a3120ec8792876c68",
+            "name": "Coprime",
+            "link": "https://codeforces.com/problemset/problem/1742/D"
+        },
+        {
+            "id": "659145233120ec8792876d50",
+            "name": "Kill Demodogs",
+            "link": "https://codeforces.com/problemset/problem/1731/B"
+        },
+        {
+            "id": "6591452c3120ec8792876ead",
+            "name": "Difference of GCDs",
+            "link": "https://codeforces.com/problemset/problem/1708/B"
+        },
+        {
+            "id": "659145343120ec8792876f42",
+            "name": "AND Sorting",
+            "link": "https://codeforces.com/problemset/problem/1682/B"
+        },
+        {
+            "id": "6591453e3120ec8792877048",
+            "name": "A Perfectly Balanced String?",
+            "link": "https://codeforces.com/problemset/problem/1673/B"
+        },
+        {
+            "id": "659145473120ec87928770e3",
+            "name": "Eating Candies",
+            "link": "https://codeforces.com/problemset/problem/1669/F"
+        },
+        {
+            "id": "659145533120ec879287720a",
+            "name": "Subtract Operation",
+            "link": "https://codeforces.com/problemset/problem/1656/B"
+        },
+        {
+            "id": "6591455c3120ec8792877290",
+            "name": "Fun with Even Subarrays",
+            "link": "https://codeforces.com/problemset/problem/1631/B"
+        },
+        {
+            "id": "659145673120ec8792877376",
+            "name": "Paint the Array",
+            "link": "https://codeforces.com/problemset/problem/1618/C"
+        },
+        {
+            "id": "659145723120ec8792877464",
+            "name": "Kalindrome Array",
+            "link": "https://codeforces.com/problemset/problem/1610/B"
+        },
+        {
+            "id": "6591457b3120ec8792877563",
+            "name": "Yet Another Card Deck",
+            "link": "https://codeforces.com/problemset/problem/1511/C"
+        }
+    ],
+    "1200": [
+        {
+            "id": "659147fa3120ec879287a285",
+            "name": "Three Activities",
+            "link": "https://codeforces.com/problemset/problem/1914/D"
+        },
+        {
+            "id": "659148073120ec879287a415",
+            "name": "Make Almost Equal With Mod",
+            "link": "https://codeforces.com/problemset/problem/1909/B"
+        },
+        {
+            "id": "6591480f3120ec879287a51e",
+            "name": "Plus Minus Permutation",
+            "link": "https://codeforces.com/problemset/problem/1872/D"
+        },
+        {
+            "id": "6591481a3120ec879287a64e",
+            "name": "Assembly via Minimums",
+            "link": "https://codeforces.com/problemset/problem/1857/C"
+        },
+        {
+            "id": "659148243120ec879287a75d",
+            "name": "Vika and the Bridge",
+            "link": "https://codeforces.com/problemset/problem/1848/B"
+        },
+        {
+            "id": "659148303120ec879287a8d0",
+            "name": "Contrast Value",
+            "link": "https://codeforces.com/problemset/problem/1832/C"
+        },
+        {
+            "id": "659148483120ec879287ab12",
+            "name": "Playing in a Casino",
+            "link": "https://codeforces.com/problemset/problem/1808/B"
+        },
+        {
+            "id": "659148523120ec879287ac11",
+            "name": "Dora and Search",
+            "link": "https://codeforces.com/problemset/problem/1793/C"
+        },
+        {
+            "id": "659148603120ec879287ad33",
+            "name": "Matryoshkas",
+            "link": "https://codeforces.com/problemset/problem/1790/D"
+        },
+        {
+            "id": "6591486e3120ec879287aec5",
+            "name": "Scuza",
+            "link": "https://codeforces.com/problemset/problem/1742/E"
+        },
+        {
+            "id": "659148763120ec879287af7c",
+            "name": "Removing Smallest Multiples",
+            "link": "https://codeforces.com/problemset/problem/1734/C"
+        },
+        {
+            "id": "659148823120ec879287b149",
+            "name": "Friends and the Restaurant",
+            "link": "https://codeforces.com/problemset/problem/1729/D"
+        },
+        {
+            "id": "6591488a3120ec879287b20b",
+            "name": "Virus",
+            "link": "https://codeforces.com/problemset/problem/1704/C"
+        },
+        {
+            "id": "659148923120ec879287b3cf",
+            "name": "Mirror Grid",
+            "link": "https://codeforces.com/problemset/problem/1703/E"
+        },
+        {
+            "id": "6591489d3120ec879287b507",
+            "name": "Binary Deque",
+            "link": "https://codeforces.com/problemset/problem/1692/E"
+        },
+        {
+            "id": "659148a63120ec879287b6ab",
+            "name": "Stone Age Problem",
+            "link": "https://codeforces.com/problemset/problem/1679/B"
+        },
+        {
+            "id": "659148af3120ec879287b7cc",
+            "name": "Dolce Vita",
+            "link": "https://codeforces.com/problemset/problem/1671/C"
+        },
+        {
+            "id": "659148b83120ec879287b92f",
+            "name": "Differential Sorting",
+            "link": "https://codeforces.com/problemset/problem/1635/C"
+        },
+        {
+            "id": "659148c13120ec879287bad0",
+            "name": "Make Them Equal",
+            "link": "https://codeforces.com/problemset/problem/1594/C"
+        },
+        {
+            "id": "659148cb3120ec879287bbd8",
+            "name": "Grandma Capa Knits a Scarf",
+            "link": "https://codeforces.com/problemset/problem/1582/C"
+        },
+        {
+            "id": "659148d43120ec879287bcb6",
+            "name": "Pleasant Pairs",
+            "link": "https://codeforces.com/problemset/problem/1541/B"
+        },
+        {
+            "id": "659148df3120ec879287bdc1",
+            "name": "Stable Groups",
+            "link": "https://codeforces.com/problemset/problem/1539/C"
+        },
+        {
+            "id": "6595c70d019f44e75ef2af5c",
+            "name": "Prinzessin der Verurteilung",
+            "link": "https://codeforces.com/problemset/problem/1536/B"
+        },
+        {
+            "id": "6595c729019f44e75ef2b043",
+            "name": "Palindrome Game (easy version)",
+            "link": "https://codeforces.com/problemset/problem/1527/B1"
+        },
+        {
+            "id": "6595c739019f44e75ef2b0d2",
+            "name": "Same Differences",
+            "link": "https://codeforces.com/problemset/problem/1520/D"
+        },
+        {
+            "id": "6595c8c1019f44e75ef2bd86",
+            "name": "AND 0 Sum Big",
+            "link": "https://codeforces.com/problemset/problem/1514/B"
+        },
+        {
+            "id": "6595c8d0019f44e75ef2bdf3",
+            "name": "Flip the Bits",
+            "link": "https://codeforces.com/problemset/problem/1504/B"
+        },
+        {
+            "id": "6595c929019f44e75ef2bfd2",
+            "name": "M-Arrays",
+            "link": "https://codeforces.com/problemset/problem/1497/B"
+        },
+        {
+            "id": "6595c961019f44e75ef2c198",
+            "name": "Cat cycle",
+            "link": "https://codeforces.com/problemset/problem/1487/B"
+        },
+        {
+            "id": "6595c96c019f44e75ef2c1cf",
+            "name": "Districts Connection",
+            "link": "https://codeforces.com/problemset/problem/1433/D"
+        },
+        {
+            "id": "6595c977019f44e75ef2c238",
+            "name": "Rock and Lever",
+            "link": "https://codeforces.com/problemset/problem/1420/B"
+        }
+    ],
+    "1300": [
+        {
+            "id": "65df44992e499fc71d670a40",
+            "name": "Divisible Pairs",
+            "link": "https://codeforces.com/problemset/problem/1931/D"
+        },
+        {
+            "id": "65df44a72e499fc71d670b76",
+            "name": "Find the Different Ones!",
+            "link": "https://codeforces.com/problemset/problem/1927/D"
+        },
+        {
+            "id": "65df44b52e499fc71d670c80",
+            "name": "Romantic Glasses",
+            "link": "https://codeforces.com/problemset/problem/1915/E"
+        },
+        {
+            "id": "65df44c02e499fc71d670d8b",
+            "name": "Divide and Equalize",
+            "link": "https://codeforces.com/problemset/problem/1881/D"
+        },
+        {
+            "id": "65df44cf2e499fc71d670edd",
+            "name": "Make it Alternating",
+            "link": "https://codeforces.com/problemset/problem/1879/C"
+        },
+        {
+            "id": "65df44d92e499fc71d671035",
+            "name": "Strong Vertices",
+            "link": "https://codeforces.com/problemset/problem/1857/D"
+        },
+        {
+            "id": "65df44e12e499fc71d671181",
+            "name": "Rudolf and Snowflakes (simple version)",
+            "link": "https://codeforces.com/problemset/problem/1846/E1"
+        },
+        {
+            "id": "65df44ea2e499fc71d6712cf",
+            "name": "Scoring Subsequences",
+            "link": "https://codeforces.com/problemset/problem/1794/C"
+        },
+        {
+            "id": "65df44f42e499fc71d6713e4",
+            "name": "Gardener and the Array",
+            "link": "https://codeforces.com/problemset/problem/1775/B"
+        },
+        {
+            "id": "65df44fd2e499fc71d671500",
+            "name": "Yet Another Problem About Pairs Satisfying an Inequality",
+            "link": "https://codeforces.com/problemset/problem/1703/F"
+        },
+        {
+            "id": "65df45082e499fc71d671631",
+            "name": "White-Black Balanced Subtrees",
+            "link": "https://codeforces.com/problemset/problem/1676/G"
+        },
+        {
+            "id": "65df452b2e499fc71d6717da",
+            "name": "Maximal AND",
+            "link": "https://codeforces.com/problemset/problem/1669/H"
+        },
+        {
+            "id": "65df45352e499fc71d6718ec",
+            "name": "Chat Ban",
+            "link": "https://codeforces.com/problemset/problem/1612/C"
+        },
+        {
+            "id": "65df453f2e499fc71d6719df",
+            "name": "Array Elimination",
+            "link": "https://codeforces.com/problemset/problem/1601/A"
+        },
+        {
+            "id": "65df45492e499fc71d671afd",
+            "name": "Deep Down Below",
+            "link": "https://codeforces.com/problemset/problem/1561/C"
+        },
+        {
+            "id": "65df45512e499fc71d671c08",
+            "name": "Box Fitting",
+            "link": "https://codeforces.com/problemset/problem/1498/B"
+        },
+        {
+            "id": "65df45592e499fc71d671d06",
+            "name": "Strange Birthday Party",
+            "link": "https://codeforces.com/problemset/problem/1470/A"
+        },
+        {
+            "id": "65df45612e499fc71d671e43",
+            "name": "Move and Turn",
+            "link": "https://codeforces.com/problemset/problem/1459/B"
+        },
+        {
+            "id": "65df45692e499fc71d671f57",
+            "name": "Omkar and Last Class of Math",
+            "link": "https://codeforces.com/problemset/problem/1372/B"
+        },
+        {
+            "id": "65df45712e499fc71d672096",
+            "name": "Shuffle",
+            "link": "https://codeforces.com/problemset/problem/1366/B"
+        },
+        {
+            "id": "65df45792e499fc71d6721b0",
+            "name": "Most socially-distanced subsequence",
+            "link": "https://codeforces.com/problemset/problem/1364/B"
+        },
+        {
+            "id": "65df45832e499fc71d6722be",
+            "name": "Buying Shovels",
+            "link": "https://codeforces.com/problemset/problem/1360/D"
+        },
+        {
+            "id": "65df458b2e499fc71d6723c2",
+            "name": "Product of three numbers",
+            "link": "https://codeforces.com/problemset/problem/1294/C"
+        },
+        {
+            "id": "65df459d2e499fc71d672517",
+            "name": "Just Eat It!",
+            "link": "https://codeforces.com/problemset/problem/1285/B"
+        },
+        {
+            "id": "65df45a62e499fc71d672633",
+            "name": "Balanced Tunnel",
+            "link": "https://codeforces.com/problemset/problem/1237/B"
+        },
+        {
+            "id": "65df45ad2e499fc71d672757",
+            "name": "WOW Factor",
+            "link": "https://codeforces.com/problemset/problem/1178/B"
+        },
+        {
+            "id": "65df45b62e499fc71d672860",
+            "name": "Alyona and a Narrow Fridge",
+            "link": "https://codeforces.com/problemset/problem/1119/B"
+        },
+        {
+            "id": "65df45be2e499fc71d67298b",
+            "name": "Good Array",
+            "link": "https://codeforces.com/problemset/problem/1077/C"
+        },
+        {
+            "id": "65df45c72e499fc71d672aa4",
+            "name": "Mahmoud and Ehab and the bipartiteness",
+            "link": "https://codeforces.com/problemset/problem/862/B"
+        },
+        {
+            "id": "65df45d02e499fc71d672baf",
+            "name": "Average Sleep Time",
+            "link": "https://codeforces.com/problemset/problem/808/B"
+        },
+        {
+            "id": "65df45d92e499fc71d672ceb",
+            "name": "Simple Strings",
+            "link": "https://codeforces.com/problemset/problem/665/C"
+        }
+    ],
+    "1400": [
+        {
+            "id": "65df499d2e499fc71d674477",
+            "name": "Anna and the Valentine's Day Gift",
+            "link": "https://codeforces.com/problemset/problem/1931/E"
+        },
+        {
+            "id": "65df49a82e499fc71d6745c7",
+            "name": "Grouping Increases",
+            "link": "https://codeforces.com/problemset/problem/1919/C"
+        },
+        {
+            "id": "65df49b22e499fc71d67471f",
+            "name": "Jumping Through Segments",
+            "link": "https://codeforces.com/problemset/problem/1907/D"
+        },
+        {
+            "id": "65df49ba2e499fc71d674846",
+            "name": "Array Game",
+            "link": "https://codeforces.com/problemset/problem/1904/C"
+        },
+        {
+            "id": "65df49c32e499fc71d674962",
+            "name": "Dances (Easy version)",
+            "link": "https://codeforces.com/problemset/problem/1883/G1"
+        },
+        {
+            "id": "65df49cb2e499fc71d674a8e",
+            "name": "Iva & Pav",
+            "link": "https://codeforces.com/problemset/problem/1878/E"
+        },
+        {
+            "id": "65df49d32e499fc71d674bcf",
+            "name": "Bracket Coloring",
+            "link": "https://codeforces.com/problemset/problem/1837/D"
+        },
+        {
+            "id": "65df49db2e499fc71d674cfe",
+            "name": "Copil Copac Draws Trees",
+            "link": "https://codeforces.com/problemset/problem/1830/A"
+        },
+        {
+            "id": "65df49e32e499fc71d674e4b",
+            "name": "Hossam and Friends",
+            "link": "https://codeforces.com/problemset/problem/1771/B"
+        },
+        {
+            "id": "65df49ee2e499fc71d674fb2",
+            "name": "Make It Round",
+            "link": "https://codeforces.com/problemset/problem/1759/D"
+        },
+        {
+            "id": "65df49f72e499fc71d6750e2",
+            "name": "Add Modulo 10",
+            "link": "https://codeforces.com/problemset/problem/1714/E"
+        },
+        {
+            "id": "65df49fe2e499fc71d67520d",
+            "name": "Schedule Management",
+            "link": "https://codeforces.com/problemset/problem/1701/C"
+        },
+        {
+            "id": "65df4a062e499fc71d675326",
+            "name": "2^Sort",
+            "link": "https://codeforces.com/problemset/problem/1692/G"
+        },
+        {
+            "id": "65df4a0e2e499fc71d67543e",
+            "name": "Weird Sum",
+            "link": "https://codeforces.com/problemset/problem/1648/A"
+        },
+        {
+            "id": "65df4a162e499fc71d675597",
+            "name": "Fortune Telling",
+            "link": "https://codeforces.com/problemset/problem/1634/B"
+        },
+        {
+            "id": "65df4a262e499fc71d675750",
+            "name": "Arranging The Sheep",
+            "link": "https://codeforces.com/problemset/problem/1520/E"
+        },
+        {
+            "id": "65df4a2e2e499fc71d6758a7",
+            "name": "Berland Regional",
+            "link": "https://codeforces.com/problemset/problem/1519/C"
+        },
+        {
+            "id": "65df4a342e499fc71d6759e8",
+            "name": "AND Sequences",
+            "link": "https://codeforces.com/problemset/problem/1513/B"
+        },
+        {
+            "id": "65df4a3b2e499fc71d675b06",
+            "name": "Ball in Berland",
+            "link": "https://codeforces.com/problemset/problem/1475/C"
+        },
+        {
+            "id": "65df4a432e499fc71d675c33",
+            "name": "Zero Remainder Array",
+            "link": "https://codeforces.com/problemset/problem/1374/D"
+        },
+        {
+            "id": "65df4a4d2e499fc71d675d91",
+            "name": "Johnny and Another Rating Drop",
+            "link": "https://codeforces.com/problemset/problem/1362/C"
+        },
+        {
+            "id": "65df4a552e499fc71d675eb6",
+            "name": "Orac and Models",
+            "link": "https://codeforces.com/problemset/problem/1350/B"
+        },
+        {
+            "id": "65df4a5d2e499fc71d675fe2",
+            "name": "Journey Planning",
+            "link": "https://codeforces.com/problemset/problem/1320/A"
+        },
+        {
+            "id": "65df4a692e499fc71d676129",
+            "name": "The Number of Products",
+            "link": "https://codeforces.com/problemset/problem/1215/B"
+        },
+        {
+            "id": "65df4a712e499fc71d676259",
+            "name": "Basketball Exercise",
+            "link": "https://codeforces.com/problemset/problem/1195/C"
+        },
+        {
+            "id": "65df4a792e499fc71d6763cd",
+            "name": "Candy Box (easy version)",
+            "link": "https://codeforces.com/problemset/problem/1183/D"
+        },
+        {
+            "id": "65df4a812e499fc71d676521",
+            "name": "News Distribution",
+            "link": "https://codeforces.com/problemset/problem/1167/C"
+        },
+        {
+            "id": "65df4a8d2e499fc71d676680",
+            "name": "Lost Numbers",
+            "link": "https://codeforces.com/problemset/problem/1167/B"
+        },
+        {
+            "id": "65df4a962e499fc71d6767cc",
+            "name": "Queen",
+            "link": "https://codeforces.com/problemset/problem/1143/C"
+        },
+        {
+            "id": "65df4a9d2e499fc71d676929",
+            "name": "Tape",
+            "link": "https://codeforces.com/problemset/problem/1110/B"
+        },
+        {
+            "id": "65df4aa52e499fc71d676a7b",
+            "name": "Mashmokh and ACM",
+            "link": "https://codeforces.com/problemset/problem/414/B"
+        }
+    ],
+    "1500": [
+        {
+            "id": "65df20982e499fc71d661b53",
+            "name": "Greetings",
+            "link": "https://codeforces.com/problemset/problem/1915/F"
+        },
+        {
+            "id": "65df20a42e499fc71d661c48",
+            "name": "Smilo and Monsters",
+            "link": "https://codeforces.com/problemset/problem/1891/C"
+        },
+        {
+            "id": "65df20af2e499fc71d661d3e",
+            "name": "Block Sequence",
+            "link": "https://codeforces.com/problemset/problem/1881/E"
+        },
+        {
+            "id": "65df20bc2e499fc71d661e44",
+            "name": "Data Structures Fan",
+            "link": "https://codeforces.com/problemset/problem/1872/E"
+        },
+        {
+            "id": "65df20c82e499fc71d661f45",
+            "name": "Tea Tasting",
+            "link": "https://codeforces.com/problemset/problem/1795/C"
+        },
+        {
+            "id": "65df20d52e499fc71d662048",
+            "name": "Controllers",
+            "link": "https://codeforces.com/problemset/problem/1776/L"
+        },
+        {
+            "id": "65df23e62e499fc71d6635f5",
+            "name": "Palindrome Basis",
+            "link": "https://codeforces.com/problemset/problem/1673/C"
+        },
+        {
+            "id": "65df23f12e499fc71d6636cf",
+            "name": "Line Empire",
+            "link": "https://codeforces.com/problemset/problem/1659/C"
+        },
+        {
+            "id": "65df23fc2e499fc71d6637ea",
+            "name": "Factorials and Powers of Two",
+            "link": "https://codeforces.com/problemset/problem/1646/C"
+        },
+        {
+            "id": "65df24072e499fc71d663920",
+            "name": "AGAGA XOOORRR",
+            "link": "https://codeforces.com/problemset/problem/1516/B"
+        },
+        {
+            "id": "65df24182e499fc71d663a95",
+            "name": "Eastern Exhibition",
+            "link": "https://codeforces.com/problemset/problem/1486/B"
+        },
+        {
+            "id": "65df24242e499fc71d663b94",
+            "name": "13th Labour of Heracles",
+            "link": "https://codeforces.com/problemset/problem/1466/D"
+        },
+        {
+            "id": "65df243f2e499fc71d663d46",
+            "name": "Mortal Kombat Tower",
+            "link": "https://codeforces.com/problemset/problem/1418/C"
+        },
+        {
+            "id": "65df244b2e499fc71d663e65",
+            "name": "k-Amazing Numbers",
+            "link": "https://codeforces.com/problemset/problem/1416/A"
+        },
+        {
+            "id": "65df24562e499fc71d663f79",
+            "name": "Balanced Bitstring",
+            "link": "https://codeforces.com/problemset/problem/1404/A"
+        },
+        {
+            "id": "65df24602e499fc71d664057",
+            "name": "Powered Addition",
+            "link": "https://codeforces.com/problemset/problem/1338/A"
+        },
+        {
+            "id": "65df246b2e499fc71d664150",
+            "name": "K-Complete Word",
+            "link": "https://codeforces.com/problemset/problem/1332/C"
+        },
+        {
+            "id": "65df247d2e499fc71d664294",
+            "name": "Ehab and Path-etic MEXs",
+            "link": "https://codeforces.com/problemset/problem/1325/C"
+        },
+        {
+            "id": "65df24872e499fc71d664381",
+            "name": "Count Subrectangles",
+            "link": "https://codeforces.com/problemset/problem/1323/B"
+        },
+        {
+            "id": "65df24912e499fc71d66447e",
+            "name": "Zero Array",
+            "link": "https://codeforces.com/problemset/problem/1201/B"
+        },
+        {
+            "id": "65df249b2e499fc71d664582",
+            "name": "Edgy Trees",
+            "link": "https://codeforces.com/problemset/problem/1139/C"
+        },
+        {
+            "id": "65df24a62e499fc71d664689",
+            "name": "Zero Quantity Maximization",
+            "link": "https://codeforces.com/problemset/problem/1133/D"
+        },
+        {
+            "id": "65df24b02e499fc71d664804",
+            "name": "Lunar New Year and a Wander",
+            "link": "https://codeforces.com/problemset/problem/1106/D"
+        },
+        {
+            "id": "65df24bb2e499fc71d664924",
+            "name": "Division and Union",
+            "link": "https://codeforces.com/problemset/problem/1101/C"
+        },
+        {
+            "id": "65df24c52e499fc71d664a26",
+            "name": "The Fair Nut and String",
+            "link": "https://codeforces.com/problemset/problem/1084/C"
+        },
+        {
+            "id": "65df24d02e499fc71d664b42",
+            "name": "Cut 'em all!",
+            "link": "https://codeforces.com/problemset/problem/982/C"
+        },
+        {
+            "id": "65df24da2e499fc71d664c48",
+            "name": "Nested Segments",
+            "link": "https://codeforces.com/problemset/problem/976/C"
+        },
+        {
+            "id": "65df24e92e499fc71d664dd6",
+            "name": "Minimize the error",
+            "link": "https://codeforces.com/problemset/problem/960/B"
+        },
+        {
+            "id": "65df24f52e499fc71d664ed4",
+            "name": "Pride",
+            "link": "https://codeforces.com/problemset/problem/891/A"
+        },
+        {
+            "id": "65df24ff2e499fc71d664fc6",
+            "name": "Two TVs",
+            "link": "https://codeforces.com/problemset/problem/845/C"
+        },
+        {
+            "id": "65df25082e499fc71d6650f1",
+            "name": "Little Girl and Maximum Sum",
+            "link": "https://codeforces.com/problemset/problem/276/C"
+        }
+    ],
+    "1600": [
+        {
+            "id": "65df19072e499fc71d65d9d8",
+            "name": "Partitioning the Array",
+            "link": "https://codeforces.com/problemset/problem/1920/C"
+        },
+        {
+            "id": "65df19142e499fc71d65daa6",
+            "name": "Good Triples",
+            "link": "https://codeforces.com/problemset/problem/1907/E"
+        },
+        {
+            "id": "65df19282e499fc71d65db91",
+            "name": "Decreasing String",
+            "link": "https://codeforces.com/problemset/problem/1886/C"
+        },
+        {
+            "id": "65df19322e499fc71d65dc82",
+            "name": "To Become Max",
+            "link": "https://codeforces.com/problemset/problem/1856/C"
+        },
+        {
+            "id": "65df193d2e499fc71d65dd89",
+            "name": "Tracking Segments",
+            "link": "https://codeforces.com/problemset/problem/1843/E"
+        },
+        {
+            "id": "65df19482e499fc71d65de60",
+            "name": "Round Dance",
+            "link": "https://codeforces.com/problemset/problem/1833/E"
+        },
+        {
+            "id": "65df19592e499fc71d65df99",
+            "name": "Hits Different",
+            "link": "https://codeforces.com/problemset/problem/1829/G"
+        },
+        {
+            "id": "65df19632e499fc71d65e098",
+            "name": "Shocking Arrangement",
+            "link": "https://codeforces.com/problemset/problem/1798/D"
+        },
+        {
+            "id": "65df19702e499fc71d65e177",
+            "name": "Triangle Coloring",
+            "link": "https://codeforces.com/problemset/problem/1795/D"
+        },
+        {
+            "id": "65df197a2e499fc71d65e273",
+            "name": "Equal Frequencies",
+            "link": "https://codeforces.com/problemset/problem/1781/C"
+        },
+        {
+            "id": "65df19862e499fc71d65e3e7",
+            "name": "Flexible String",
+            "link": "https://codeforces.com/problemset/problem/1778/C"
+        },
+        {
+            "id": "65df19932e499fc71d65e4bc",
+            "name": "Interesting Sequence",
+            "link": "https://codeforces.com/problemset/problem/1775/C"
+        },
+        {
+            "id": "65df199e2e499fc71d65e5c8",
+            "name": "Sending a Sequence Over the Network",
+            "link": "https://codeforces.com/problemset/problem/1741/E"
+        },
+        {
+            "id": "65df19a82e499fc71d65e6b3",
+            "name": "Meeting on the Line",
+            "link": "https://codeforces.com/problemset/problem/1730/B"
+        },
+        {
+            "id": "65df19b22e499fc71d65e7e0",
+            "name": "Split Into Two Sets",
+            "link": "https://codeforces.com/problemset/problem/1702/E"
+        },
+        {
+            "id": "65df19bd2e499fc71d65e8b0",
+            "name": "Fixed Point Guessing",
+            "link": "https://codeforces.com/problemset/problem/1698/D"
+        },
+        {
+            "id": "65df19c82e499fc71d65e9ca",
+            "name": "Maximum Product Strikes Back",
+            "link": "https://codeforces.com/problemset/problem/1660/D"
+        },
+        {
+            "id": "65df1ab92e499fc71d65f0c9",
+            "name": "Make them Equal",
+            "link": "https://codeforces.com/problemset/problem/1633/D"
+        },
+        {
+            "id": "65df1ad32e499fc71d65f229",
+            "name": "Keshi Is Throwing a Party",
+            "link": "https://codeforces.com/problemset/problem/1610/C"
+        },
+        {
+            "id": "65df1ae02e499fc71d65f325",
+            "name": "Say No to Palindromes",
+            "link": "https://codeforces.com/problemset/problem/1555/D"
+        },
+        {
+            "id": "65df1aef2e499fc71d65f46e",
+            "name": "Erase and Extend (Easy Version)",
+            "link": "https://codeforces.com/problemset/problem/1537/E1"
+        },
+        {
+            "id": "65df1afa2e499fc71d65f554",
+            "name": "Parsa's Humongous Tree",
+            "link": "https://codeforces.com/problemset/problem/1528/A"
+        },
+        {
+            "id": "65df1b052e499fc71d65f63f",
+            "name": "Planar Reflections",
+            "link": "https://codeforces.com/problemset/problem/1498/C"
+        },
+        {
+            "id": "65df1b142e499fc71d65f715",
+            "name": "Advertising Agency",
+            "link": "https://codeforces.com/problemset/problem/1475/E"
+        },
+        {
+            "id": "65df1b212e499fc71d65f802",
+            "name": "Row GCD",
+            "link": "https://codeforces.com/problemset/problem/1458/A"
+        },
+        {
+            "id": "65df1b2b2e499fc71d65f952",
+            "name": "Chocolate Bunny",
+            "link": "https://codeforces.com/problemset/problem/1407/C"
+        },
+        {
+            "id": "65df1b3b2e499fc71d65fa6d",
+            "name": "Good Subarrays",
+            "link": "https://codeforces.com/problemset/problem/1398/C"
+        },
+        {
+            "id": "65df1b452e499fc71d65fb66",
+            "name": "Array Walk",
+            "link": "https://codeforces.com/problemset/problem/1389/B"
+        },
+        {
+            "id": "65df1b5b2e499fc71d65fc98",
+            "name": "Orac and LCM",
+            "link": "https://codeforces.com/problemset/problem/1349/A"
+        },
+        {
+            "id": "65df1b882e499fc71d65fe12",
+            "name": "Linova and Kingdom",
+            "link": "https://codeforces.com/problemset/problem/1336/A"
+        },
+        {
+            "id": "65df1b942e499fc71d65fef5",
+            "name": "Kuroni and Impossible Calculation",
+            "link": "https://codeforces.com/problemset/problem/1305/C"
+        }
+    ],
+    "1700": [
+        {
+            "id": "6797159f34c836fcf3ee0f00",
+            "name": "Maximum modulo equality",
+            "link": "https://codeforces.com/problemset/problem/2050/F"
+        },
+        {
+            "id": "679715ae34c836fcf3ee0f09",
+            "name": "Drunken Maze",
+            "link": "https://codeforces.com/problemset/problem/2041/D"
+        },
+        {
+            "id": "679715bb34c836fcf3ee0f19",
+            "name": "Tree Pruning",
+            "link": "https://codeforces.com/problemset/problem/2018/C"
+        },
+        {
+            "id": "679715cc34c836fcf3ee0f23",
+            "name": "Iris and Game on the Tree",
+            "link": "https://codeforces.com/problemset/problem/2006/A"
+        },
+        {
+            "id": "679715d734c836fcf3ee0f2e",
+            "name": "Ruler (hard version)",
+            "link": "https://codeforces.com/problemset/problem/1999/G2"
+        },
+        {
+            "id": "679715e434c836fcf3ee0f3b",
+            "name": "Swap Dilemma",
+            "link": "https://codeforces.com/problemset/problem/1983/D"
+        },
+        {
+            "id": "6797160334c836fcf3ee0f4f",
+            "name": "Beauty of the mountains",
+            "link": "https://codeforces.com/problemset/problem/1982/D"
+        },
+        {
+            "id": "6797160f34c836fcf3ee0f64",
+            "name": "Tandem Repeats?",
+            "link": "https://codeforces.com/problemset/problem/1948/D"
+        },
+        {
+            "id": "6797161d34c836fcf3ee0f74",
+            "name": "Chat Screenshots",
+            "link": "https://codeforces.com/problemset/problem/1931/F"
+        },
+        {
+            "id": "6797162734c836fcf3ee0f84",
+            "name": "Neutral Tonality",
+            "link": "https://codeforces.com/problemset/problem/1893/B"
+        },
+        {
+            "id": "6797163134c836fcf3ee0f95",
+            "name": "Sum of XOR Functions",
+            "link": "https://codeforces.com/problemset/problem/1879/D"
+        },
+        {
+            "id": "6797163e34c836fcf3ee0fa7",
+            "name": "Ira and Flamenco",
+            "link": "https://codeforces.com/problemset/problem/1833/F"
+        },
+        {
+            "id": "6797164834c836fcf3ee0fba",
+            "name": "Don't Blame Me",
+            "link": "https://codeforces.com/problemset/problem/1829/H"
+        },
+        {
+            "id": "6797165334c836fcf3ee0fce",
+            "name": "Running Miles",
+            "link": "https://codeforces.com/problemset/problem/1826/D"
+        },
+        {
+            "id": "6797166634c836fcf3ee0ff3",
+            "name": "Magic Triples (Hard Version)",
+            "link": "https://codeforces.com/problemset/problem/1822/G1"
+        },
+        {
+            "id": "6797167134c836fcf3ee1009",
+            "name": "Fixed Prefix Permutations",
+            "link": "https://codeforces.com/problemset/problem/1792/D"
+        },
+        {
+            "id": "6797167b34c836fcf3ee1020",
+            "name": "Quiz Master",
+            "link": "https://codeforces.com/problemset/problem/1777/C"
+        },
+        {
+            "id": "6797168534c836fcf3ee1038",
+            "name": "SlavicG's Favorite Problem",
+            "link": "https://codeforces.com/problemset/problem/1760/G"
+        },
+        {
+            "id": "6797169134c836fcf3ee1052",
+            "name": "Meta-set",
+            "link": "https://codeforces.com/problemset/problem/1735/D"
+        },
+        {
+            "id": "6797169c34c836fcf3ee106c",
+            "name": "Even Subarrays",
+            "link": "https://codeforces.com/problemset/problem/1731/C"
+        },
+        {
+            "id": "679716a534c836fcf3ee1087",
+            "name": "Monoblock",
+            "link": "https://codeforces.com/problemset/problem/1715/C"
+        },
+        {
+            "id": "679716b734c836fcf3ee10ac",
+            "name": "Rorororobot",
+            "link": "https://codeforces.com/problemset/problem/1709/D"
+        },
+        {
+            "id": "679716c334c836fcf3ee10d0",
+            "name": "Zero Path",
+            "link": "https://codeforces.com/problemset/problem/1695/C"
+        },
+        {
+            "id": "679716cd34c836fcf3ee10f6",
+            "name": "Gambling",
+            "link": "https://codeforces.com/problemset/problem/1692/H"
+        },
+        {
+            "id": "679716d934c836fcf3ee1115",
+            "name": "Shifting String",
+            "link": "https://codeforces.com/problemset/problem/1690/F"
+        },
+        {
+            "id": "679716e434c836fcf3ee113c",
+            "name": "Road Optimization",
+            "link": "https://codeforces.com/problemset/problem/1625/C"
+        },
+        {
+            "id": "679716ef34c836fcf3ee115d",
+            "name": "Training Session",
+            "link": "https://codeforces.com/problemset/problem/1598/D"
+        },
+        {
+            "id": "679716fa34c836fcf3ee117f",
+            "name": "The Number of Imposters",
+            "link": "https://codeforces.com/problemset/problem/1594/D"
+        },
+        {
+            "id": "6797170434c836fcf3ee11a2",
+            "name": "Moamen and XOR",
+            "link": "https://codeforces.com/problemset/problem/1557/C"
+        },
+        {
+            "id": "6797170f34c836fcf3ee11d7",
+            "name": "Kavi on Pairing Duty",
+            "link": "https://codeforces.com/problemset/problem/1528/B"
+        },
+        {
+            "id": "6797171c34c836fcf3ee11fc",
+            "name": "Baby Ehab Partitions Again",
+            "link": "https://codeforces.com/problemset/problem/1516/C"
+        }
+    ],
+    "1800": [
+        {
+            "id": "679b250534c836fcf3eed580",
+            "name": "Gerrymandering",
+            "link": "https://codeforces.com/problemset/problem/2022/C"
+        },
+        {
+            "id": "679b251334c836fcf3eed588",
+            "name": "Rendez-vous de Marian et Robin",
+            "link": "https://codeforces.com/problemset/problem/2014/E"
+        },
+        {
+            "id": "679b251c34c836fcf3eed592",
+            "name": "Money Buys Happiness",
+            "link": "https://codeforces.com/problemset/problem/1974/E"
+        },
+        {
+            "id": "679b252734c836fcf3eed59c",
+            "name": "Exam in MAC",
+            "link": "https://codeforces.com/problemset/problem/1935/D"
+        },
+        {
+            "id": "679b253134c836fcf3eed5a7",
+            "name": "Bicycles",
+            "link": "https://codeforces.com/problemset/problem/1915/G"
+        },
+        {
+            "id": "679b253b34c836fcf3eed5b3",
+            "name": "Kim's Quest",
+            "link": "https://codeforces.com/problemset/problem/1912/K"
+        },
+        {
+            "id": "679b254a34c836fcf3eed5c0",
+            "name": "LuoTianyi and the Floating Islands (Easy Version)",
+            "link": "https://codeforces.com/problemset/problem/1824/B1"
+        },
+        {
+            "id": "679b255334c836fcf3eed5cf",
+            "name": "A Wide, Wide Graph",
+            "link": "https://codeforces.com/problemset/problem/1805/D"
+        },
+        {
+            "id": "679b255c34c836fcf3eed5de",
+            "name": "Friendly Spiders",
+            "link": "https://codeforces.com/problemset/problem/1775/D"
+        },
+        {
+            "id": "679b256534c836fcf3eed5ee",
+            "name": "Lucky Permutation",
+            "link": "https://codeforces.com/problemset/problem/1768/D"
+        },
+        {
+            "id": "679b256d34c836fcf3eed5ff",
+            "name": "Sheikh (Easy version)",
+            "link": "https://codeforces.com/problemset/problem/1732/C1"
+        },
+        {
+            "id": "679b257734c836fcf3eed611",
+            "name": "Moving Both Hands",
+            "link": "https://codeforces.com/problemset/problem/1725/M"
+        },
+        {
+            "id": "679b258134c836fcf3eed624",
+            "name": "Recover an RBS",
+            "link": "https://codeforces.com/problemset/problem/1709/C"
+        },
+        {
+            "id": "679b258934c836fcf3eed638",
+            "name": "Max GEQ Sum",
+            "link": "https://codeforces.com/problemset/problem/1691/D"
+        },
+        {
+            "id": "679b259334c836fcf3eed657",
+            "name": "Explorer Space",
+            "link": "https://codeforces.com/problemset/problem/1517/D"
+        },
+        {
+            "id": "679b259c34c836fcf3eed66d",
+            "name": "The Sports Festival",
+            "link": "https://codeforces.com/problemset/problem/1509/C"
+        },
+        {
+            "id": "679b25a434c836fcf3eed684",
+            "name": "Zookeeper and The Infinite Zoo",
+            "link": "https://codeforces.com/problemset/problem/1491/D"
+        },
+        {
+            "id": "679b25ac34c836fcf3eed69c",
+            "name": "Road Reform",
+            "link": "https://codeforces.com/problemset/problem/1468/J"
+        },
+        {
+            "id": "679b25b334c836fcf3eed6b5",
+            "name": "Apollo versus Pan",
+            "link": "https://codeforces.com/problemset/problem/1466/E"
+        },
+        {
+            "id": "679b25bb34c836fcf3eed6cf",
+            "name": "The Treasure of The Segments",
+            "link": "https://codeforces.com/problemset/problem/1462/F"
+        },
+        {
+            "id": "679b25c234c836fcf3eed6ea",
+            "name": "Catching Cheaters",
+            "link": "https://codeforces.com/problemset/problem/1446/B"
+        },
+        {
+            "id": "679b25ca34c836fcf3eed707",
+            "name": "Identify the Operations",
+            "link": "https://codeforces.com/problemset/problem/1442/B"
+        },
+        {
+            "id": "679b25d234c836fcf3eed72d",
+            "name": "Chef Monocarp",
+            "link": "https://codeforces.com/problemset/problem/1437/C"
+        },
+        {
+            "id": "679b25da34c836fcf3eed74b",
+            "name": "Maximum Distributed Tree",
+            "link": "https://codeforces.com/problemset/problem/1401/D"
+        },
+        {
+            "id": "679b25e234c836fcf3eed76a",
+            "name": "Stoned Game",
+            "link": "https://codeforces.com/problemset/problem/1396/B"
+        },
+        {
+            "id": "679b25e934c836fcf3eed78a",
+            "name": "Count Triangles",
+            "link": "https://codeforces.com/problemset/problem/1355/C"
+        },
+        {
+            "id": "679b25f234c836fcf3eed7ab",
+            "name": "Edge Weight Assignment",
+            "link": "https://codeforces.com/problemset/problem/1338/B"
+        },
+        {
+            "id": "679b25f934c836fcf3eed7cd",
+            "name": "Three Blocks Palindrome (hard version)",
+            "link": "https://codeforces.com/problemset/problem/1335/E2"
+        },
+        {
+            "id": "679b260234c836fcf3eed7f0",
+            "name": "Irreducible Anagrams",
+            "link": "https://codeforces.com/problemset/problem/1290/B"
+        },
+        {
+            "id": "679b260a34c836fcf3eed83b",
+            "name": "Numbers on Tree",
+            "link": "https://codeforces.com/problemset/problem/1286/B"
+        },
+        {
+            "id": "679b261234c836fcf3eed860",
+            "name": "Christmas Trees",
+            "link": "https://codeforces.com/problemset/problem/1283/D"
+        }
+    ],
+    "1900": [
+        {
+            "id": "6799d20234c836fcf3ee8740",
+            "name": "Easy Demon Problem",
+            "link": "https://codeforces.com/problemset/problem/2044/F"
+        },
+        {
+            "id": "6799d20f34c836fcf3ee8748",
+            "name": "Recommendations",
+            "link": "https://codeforces.com/problemset/problem/2042/D"
+        },
+        {
+            "id": "6799d21834c836fcf3ee8751",
+            "name": "XORificator 3000",
+            "link": "https://codeforces.com/problemset/problem/2036/F"
+        },
+        {
+            "id": "6799d22134c836fcf3ee875b",
+            "name": "Robin Hood Archery",
+            "link": "https://codeforces.com/problemset/problem/2014/H"
+        },
+        {
+            "id": "6799d22934c836fcf3ee8766",
+            "name": "Yunli's Subarray Queries (easy version)",
+            "link": "https://codeforces.com/problemset/problem/2009/G1"
+        },
+        {
+            "id": "6799d23234c836fcf3ee8773",
+            "name": "Longest Max Min Subsequence",
+            "link": "https://codeforces.com/problemset/problem/2001/D"
+        },
+        {
+            "id": "6799d23b34c836fcf3ee8780",
+            "name": "Funny Game",
+            "link": "https://codeforces.com/problemset/problem/1994/D"
+        },
+        {
+            "id": "6799d24234c836fcf3ee878e",
+            "name": "Valuable Cards",
+            "link": "https://codeforces.com/problemset/problem/1992/F"
+        },
+        {
+            "id": "6799d24c34c836fcf3ee879d",
+            "name": "Non-academic Problem",
+            "link": "https://codeforces.com/problemset/problem/1986/F"
+        },
+        {
+            "id": "6799d26034c836fcf3ee87ad",
+            "name": "A BIT of an Inequality",
+            "link": "https://codeforces.com/problemset/problem/1957/D"
+        },
+        {
+            "id": "6799d26a34c836fcf3ee87bf",
+            "name": "Shuffling Songs",
+            "link": "https://codeforces.com/problemset/problem/1950/G"
+        },
+        {
+            "id": "6799d27134c836fcf3ee87d1",
+            "name": "Feed Cats",
+            "link": "https://codeforces.com/problemset/problem/1932/F"
+        },
+        {
+            "id": "6799d27a34c836fcf3ee87eb",
+            "name": "Good Trip",
+            "link": "https://codeforces.com/problemset/problem/1925/D"
+        },
+        {
+            "id": "6799d27f34c836fcf3ee8808",
+            "name": "Blocking Elements",
+            "link": "https://codeforces.com/problemset/problem/1918/D"
+        },
+        {
+            "id": "6799d28834c836fcf3ee881d",
+            "name": "Accumulator Apex",
+            "link": "https://codeforces.com/problemset/problem/1912/A"
+        },
+        {
+            "id": "6799d29134c836fcf3ee883a",
+            "name": "Merge Not Sort",
+            "link": "https://codeforces.com/problemset/problem/1906/E"
+        },
+        {
+            "id": "6799d29a34c836fcf3ee8858",
+            "name": "Collapsing Strings",
+            "link": "https://codeforces.com/problemset/problem/1902/E"
+        },
+        {
+            "id": "6799d2a334c836fcf3ee8870",
+            "name": "Absolute Beauty",
+            "link": "https://codeforces.com/problemset/problem/1898/D"
+        },
+        {
+            "id": "6799d2ae34c836fcf3ee888a",
+            "name": "Tree XOR",
+            "link": "https://codeforces.com/problemset/problem/1882/D"
+        },
+        {
+            "id": "6799d2b534c836fcf3ee88a4",
+            "name": "Tenzing and His Animal Friends",
+            "link": "https://codeforces.com/problemset/problem/1842/D"
+        },
+        {
+            "id": "6799d2bc34c836fcf3ee88bf",
+            "name": "The Butcher",
+            "link": "https://codeforces.com/problemset/problem/1819/B"
+        },
+        {
+            "id": "6799d2c334c836fcf3ee88db",
+            "name": "Fish Graph",
+            "link": "https://codeforces.com/problemset/problem/1817/B"
+        },
+        {
+            "id": "6799d2d334c836fcf3ee88f8",
+            "name": "Hot Start Up (easy version)",
+            "link": "https://codeforces.com/problemset/problem/1799/D1"
+        },
+        {
+            "id": "6799d2db34c836fcf3ee8916",
+            "name": "Counting Factorizations",
+            "link": "https://codeforces.com/problemset/problem/1794/D"
+        },
+        {
+            "id": "6799d2e334c836fcf3ee8936",
+            "name": "Score of a Tree",
+            "link": "https://codeforces.com/problemset/problem/1777/D"
+        },
+        {
+            "id": "6799d2ea34c836fcf3ee8956",
+            "name": "Restore the Permutation",
+            "link": "https://codeforces.com/problemset/problem/1759/G"
+        },
+        {
+            "id": "6799d2f134c836fcf3ee8977",
+            "name": "Yet Another Problem",
+            "link": "https://codeforces.com/problemset/problem/1747/D"
+        },
+        {
+            "id": "6799d2f834c836fcf3ee8999",
+            "name": "Divisible Numbers (hard version)",
+            "link": "https://codeforces.com/problemset/problem/1744/E2"
+        },
+        {
+            "id": "6799d30034c836fcf3ee89bc",
+            "name": "Reset K Edges",
+            "link": "https://codeforces.com/problemset/problem/1739/D"
+        },
+        {
+            "id": "6799d30a34c836fcf3ee89e0",
+            "name": "2+ doors",
+            "link": "https://codeforces.com/problemset/problem/1715/D"
+        },
+        {
+            "id": "6799d31334c836fcf3ee8a05",
+            "name": "River Locks",
+            "link": "https://codeforces.com/problemset/problem/1700/D"
+        }
+    ]
+}
