@@ -73,4 +73,54 @@ stylesheets = [
 HTML(string=html_content).write_pdf(output_file, stylesheets=stylesheets)
 # %% selenium
 
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+import pdfkit  # We'll still use pdfkit to convert the rendered HTML to PDF
+
+def webpage_to_pdf(url, output_path):
+    try:
+        # Set up Chrome options
+        chrome_options = Options()
+        # chrome_options.add_argument('--headless')  # Run in background
+        # chrome_options.add_argument('--disable-gpu')
+        
+        # Initialize the driver
+        driver = webdriver.Chrome(options=chrome_options)
+        
+        # Navigate to the webpage
+        driver.get(url)
+        
+        # Wait for page to load (adjust time as needed)
+        driver.implicitly_wait(5)
+        
+        # Get the fully rendered HTML
+        html_content = driver.page_source
+        
+        # Configure PDF options
+        pdf_options = {
+            'page-size': 'A4',
+            'margin-top': '0.75in',
+            'margin-right': '0.75in',
+            'margin-bottom': '0.75in',
+            'margin-left': '0.75in',
+            'encoding': "UTF-8"
+        }
+        
+        # Convert to PDF
+        pdfkit.from_string(html_content, output_path, options=pdf_options)
+        
+        print(f"PDF successfully created at {output_path}")
+        
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        
+    # finally:
+        # Clean up
+        # driver.quit()
+
+# Usage
+# url = "https://example.com"
+output_file = "output_selenium.pdf"
+webpage_to_pdf(url, output_file)
+
 # %%
