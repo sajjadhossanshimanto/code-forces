@@ -51,5 +51,26 @@ pdfkit.from_string(modified_html, 'output_pdfkit_from html.pdf')
 
 print("PDF generated with modified content!")
 
+# %% weasyprint 
+# -> external executable depen
+from weasyprint import HTML
+import requests
+
+# Fetch webpage content
+url = "https://example.com"
+response = requests.get(url)
+html_content = response.text
+
+# Convert to PDF
+output_file = "output.pdf"
+HTML(string=html_content).write_pdf(output_file)
+
+# With custom styles
+stylesheets = [
+    # Add CSS if needed
+    'https://example.com/style.css'
+]
+HTML(string=html_content).write_pdf(output_file, stylesheets=stylesheets)
+# %% selenium
 
 # %%
