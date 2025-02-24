@@ -127,6 +127,8 @@ webpage_to_pdf(url, output_file)
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import base64
 import json
 
@@ -162,6 +164,11 @@ def webpage_to_pdf(output_path):
         
     print(f"PDF successfully created at {output_path}")
 
+def load_page(url):
+    driver.get(url)
+    return WebDriverWait(driver, 10).until(# max 10 secs
+        EC.presence_of_element_located((By.CLASS_NAME, "problem-statement"))
+    )
 
 # Set up Chrome options
 chrome_options = Options()
