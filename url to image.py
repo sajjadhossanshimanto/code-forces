@@ -193,6 +193,30 @@ def filter_page():
     delete_element(driver.find_element(By.ID, "footer"))
     delete_element(driver.find_element(By.CLASS_NAME, "menu-box"))
     delete_element(driver.find_element(By.CLASS_NAME, "ContestVirtualFrame"))
+    print("Page filtered")
+
+
+# %%
+import json
+
+
+with open("console temp.json") as file:
+    problem_list = json.load(file)
+
+
+driver = handshake_browser()
+
+idx = 0
+for problem in problem_list['1200']:
+    idx += 1
+    url = problem['link']
+    output_file = f"{idx}. {problem['name']}.pdf"
+
+    load_page(url)
+    print(f"Page loaded: {url}")
+    filter_page()
+    break
+    webpage_to_pdf(output_file)
 
 
 # %%
