@@ -170,19 +170,22 @@ def load_page(url):
         EC.presence_of_element_located((By.CLASS_NAME, "problem-statement"))
     )
 
-# Set up Chrome options
-chrome_options = Options()
-# chrome_options.add_argument('--headless')  # Run in background
-# chrome_options.add_argument('--disable-gpu')
 
-# Initialize driver
-driver = webdriver.Chrome(options=chrome_options)
-driver.get(url)
+chrome_path=r"D:\program data\chrome-testing-win64"
+def handshake_browser(port=8282):
+    from selenium import webdriver
+    from selenium.webdriver.chrome.options import Options
+    from selenium.webdriver.chrome.service import Service as ChromeService
 
-# Usage
-# url = "https://example.com"
-output_file = "output_print2pdf.pdf"
-# webpage_to_pdf(url, output_file)
+    chrome_options = Options()
+    chrome_options.add_experimental_option("debuggerAddress", f"127.0.0.1:{port}")
+    # chrome_options.add_argument('--headless')  # Run in background
+    # chrome_options.add_argument('--disable-gpu')
+
+    br = webdriver.Chrome(service=ChromeService(executable_path=chrome_path+'\chromedriver.exe'), options=chrome_options)
+    print("browser handshake done")# log 
+    return br
+
 
 def filter_page():
     # Remove unwanted elements
