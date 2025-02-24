@@ -184,11 +184,12 @@ driver.get(url)
 output_file = "output_print2pdf.pdf"
 # webpage_to_pdf(url, output_file)
 
-
-element = driver.find_element(By.ID, "header")
-element = driver.find_element(By.ID, "footer")
-element = driver.find_element(By.CLASS_NAME, "menu-box")
-element = driver.find_element(By.CLASS_NAME, "ContestVirtualFrame")
+def filter_page():
+    # Remove unwanted elements
+    delete_element(driver.find_element(By.ID, "header"))
+    delete_element(driver.find_element(By.ID, "footer"))
+    delete_element(driver.find_element(By.CLASS_NAME, "menu-box"))
+    delete_element(driver.find_element(By.CLASS_NAME, "ContestVirtualFrame"))
 
 
 # %%
