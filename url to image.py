@@ -166,7 +166,7 @@ def webpage_to_pdf(output_path):
 
 def load_page(url):
     driver.get(url)
-    return WebDriverWait(driver, 10).until(# max 10 secs
+    return WebDriverWait(driver, 100).until(# max 10 secs
         EC.presence_of_element_located((By.CLASS_NAME, "problem-statement"))
     )
 
@@ -195,6 +195,14 @@ def filter_page():
     delete_element(driver.find_element(By.CLASS_NAME, "ContestVirtualFrame"))
     print("Page filtered")
 
+#%%
+chrome_options = Options()
+# chrome_options.add_argument('--headless')  # Run in background
+# chrome_options.add_argument('--disable-gpu')
+
+# Initialize the driver
+driver = webdriver.Chrome(options=chrome_options)
+# driver = handshake_browser()
 
 # %%
 import json
@@ -204,19 +212,24 @@ with open("console temp.json") as file:
     problem_list = json.load(file)
 
 
-driver = handshake_browser()
-
 idx = 0
 for problem in problem_list['1200']:
     idx += 1
+    if idx <= 3: continue# skip portion
+
+    chrome_options = Options()
+    driver = webdriver.Chrome(options=chrome_options)
+
     url = problem['link']
     output_file = f"{idx}. {problem['name']}.pdf"
 
     load_page(url)
     print(f"Page loaded: {url}")
     filter_page()
-    break
+    # break
     webpage_to_pdf(output_file)
+
+    driver.quit()
 
 
 # %%
