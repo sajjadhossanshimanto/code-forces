@@ -195,6 +195,17 @@ def filter_page():
     delete_element(driver.find_element(By.CLASS_NAME, "ContestVirtualFrame"))
     print("Page filtered")
 
+def make_safe_filename(filename):
+    invalid_chars = '<>:"/\\|?*'
+    
+    safe_name = filename
+    for char in invalid_chars:
+        safe_name = safe_name.replace(char, '_')
+    
+    safe_name = ''.join(char for char in safe_name if ord(char) >= 32)
+    
+    return safe_name
+
 #%%
 chrome_options = Options()
 # chrome_options.add_argument('--headless')  # Run in background
@@ -213,15 +224,15 @@ with open("console temp.json") as file:
 
 
 idx = 0
-for problem in problem_list['1200']:
+for problem in problem_list['1900']:
     idx += 1
-    if idx <= 3: continue# skip portion
+    # if idx <= 7: continue# skip portion
 
     chrome_options = Options()
     driver = webdriver.Chrome(options=chrome_options)
 
     url = problem['link']
-    output_file = f"{idx}. {problem['name']}.pdf"
+    output_file = f"{idx}. {make_safe_filename(problem['name'])}.pdf"
 
     load_page(url)
     print(f"Page loaded: {url}")
