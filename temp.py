@@ -2,7 +2,6 @@ from Crypto.Cipher import AES
 from Crypto.Protocol.KDF import PBKDF2
 from Crypto.Hash import SHA256
 import base64
-import hashlib
 
 def decrypt(encrypted_text, passphrase):
     try:
@@ -46,3 +45,30 @@ passphrase = "f0cfe28f452b480cbcbaf50af2ca1a70"
 decrypted_text = decrypt(encrypted_text, passphrase)
 if decrypted_text:
     print(decrypted_text)
+
+#%% sample data
+ll = {
+    "problemsListByRating": {
+        "800": {
+            "list": [
+                {
+                    "name": "U2FsdGVkX1/HHSky0btc1eeXADpDiWBR9SWbomKATbQ=",
+                    "link": "U2FsdGVkX1/PziM76lsmV1PwgVU5iWmzvdjTLueWwu6WCdmleTl7khKJ+pN0L3IX88xB2PnR1L4ZhLVJKFQcDkOcUcUNx7514yXn0efc0Mw=",
+                    "videoSolutionLink": "https://www.youtube.com/embed/3T2d0hjzdwA?si=EjiMTvV9wjx7J7_Q",
+                    "videoSolutionPlaceholder": "",
+                    "notes": "",
+                    "id": "659121083120ec879284fc21",
+                    "markedForRevisit": False
+                },
+            ]
+        }
+    }
+}
+
+def VH(i):
+    pass
+
+for k, v in ll["problemsListByRating"].item():
+    for p in v["list"]:
+        p["name"] = VH(p["name"])
+        p["link"] = VH(p["link"])
