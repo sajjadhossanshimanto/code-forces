@@ -4,7 +4,7 @@ def dis(x, y):
 for _ in range(int(input())):
     nx, px, ny, py = map(int, input().split())
 
-    if dis(nx, ny)==dis(nx, py)==dis(px, ny)==dis(px, py):
+    if dis(nx, ny)==dis(nx, py)==dis(px, ny)==dis(px, py) and nx+px==ny+py:
         print("Yes")
     else:
         print("No")
