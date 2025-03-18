@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"d:\\coding\\CP\\code forces\\800\\4. A_Game_with_Integers.py","tests":[{"id":1742319646287,"input":"6\n1\n3\n5\n100\n999\n1000","output":"First\nSecond\nFirst\nFirst\nSecond\nFirst"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\CP\\code forces\\800\\4. A_Game_with_Integers.py","group":"local","local":true}
