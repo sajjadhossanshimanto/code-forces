@@ -21,3 +21,31 @@ for _ in range(int(input())):
         break
     else:
         print("No")
+
+#%% solution video 
+for _ in range(int(input())):
+    n = int(input())
+    nums = list(map(int, input().split()))
+
+    freq = {}
+    for i in nums:
+        freq[i] = freq.get(i, 0) + 1
+    
+    keys = list(freq.keys())
+    if len(keys)>2:
+        print("No")
+        continue
+    if len(keys)==1:
+        print("Yes")
+        continue
+
+    if n&1:
+        if abs(freq[keys[1]]-freq[keys[0]])==1:
+            print("Yes")
+        else:
+            print("No")
+    else:
+        if freq[keys[1]] == freq[keys[0]]:
+            print("Yes")
+        else:
+            print("No")
