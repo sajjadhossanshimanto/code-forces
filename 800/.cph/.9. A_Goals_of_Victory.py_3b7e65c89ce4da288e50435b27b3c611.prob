@@ -1,0 +1,1 @@
+{"name":"Local: 9","url":"d:\\coding\\CP\\code forces\\800\\9. A_Goals_of_Victory.py","tests":[{"id":1742576344200,"input":"2\n4\n3 -4 5\n11\n-30 12 -57 7 0 -81 -68 41 -89 0","output":"-4\n265"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\CP\\code forces\\800\\9. A_Goals_of_Victory.py","group":"local","local":true}
