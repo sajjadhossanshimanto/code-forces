@@ -41,8 +41,33 @@ for _ in range(int(input())):
     # else:
     #     print("NO")
 
+for _ in range(int(input())):
+    n, k, x = map(int, input().split())
+
+    if x!=1:
         print("YES")
-        print(len(r[1]))
-        print(" ".join(map(str, r[1])))
+        print(n)
+        print(" ".join(["1"]*n))
     else:
-        print("NO")
+        if k==1:
+            print("NO")
+            continue
+
+        # here k is at least 2
+        if not n&1:
+            print("YES")
+            print(n//2)
+            print(" ".join(["2"]*(n//2)))
+            continue
+
+        if k<3:
+            print("NO")
+            continue
+
+        odd = n%2
+        if odd==1:
+            print("NO")
+        else:
+            print("YES")
+            print(n//2+1)
+            print(" ".join(["2"]*(n//2)), "3")
