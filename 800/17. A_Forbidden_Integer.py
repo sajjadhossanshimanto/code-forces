@@ -19,9 +19,28 @@ def target_sum(i, left_sum, path):
 for _ in range(int(input())):
     target, k, x = map(int, input().split())
     nums = [i for i in range(k, 0, -1) if i!=x]
-    # path = []
-    r = target_sum(0, target, [])
-    if r[0]:
+    
+    dp = [[0]*(target+1) for _ in range(len(nums)+1)]
+    
+    # base case
+    for i in range(len(nums)):
+        dp[i][0] = 1
+    
+    # iterate
+    for i in range(len(nums)-1, -1, -1):
+        for left_sum in range(1, target+1):
+            dp[i][left_sum] = dp[i][left_sum-nums[i]] or dp[i+1][left_sum]
+    
+    print(dp[0][target], target_sum(0, target, []))
+    print(dp)
+
+    # if r[0]:
+    #     print("YES")
+    #     print(len(r[1]))
+    #     print(" ".join(map(str, r[1])))
+    # else:
+    #     print("NO")
+
         print("YES")
         print(len(r[1]))
         print(" ".join(map(str, r[1])))
