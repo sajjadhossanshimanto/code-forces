@@ -1,0 +1,1 @@
+{"name":"Local: 22","url":"d:\\coding\\CP\\code forces\\800\\22. A_Coins.py","tests":[{"id":1742911072135,"input":"4\n5 3\n6 1\n7 4\n8 8\n","output":"YES\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\CP\\code forces\\800\\22. A_Coins.py","group":"local","local":true}
