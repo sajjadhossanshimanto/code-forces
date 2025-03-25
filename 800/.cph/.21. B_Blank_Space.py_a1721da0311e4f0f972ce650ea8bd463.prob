@@ -1,0 +1,1 @@
+{"name":"Local: 21","url":"d:\\coding\\CP\\code forces\\800\\21. B_Blank_Space.py","tests":[{"id":1742910565773,"input":"5\n5\n1 0 0 1 0\n4\n0 1 1 1\n1\n0\n3\n1 1 1\n9\n1 0 0 0 1 0 0 0 1\n","output":"2\n1\n1\n0\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\CP\\code forces\\800\\21. B_Blank_Space.py","group":"local","local":true}
