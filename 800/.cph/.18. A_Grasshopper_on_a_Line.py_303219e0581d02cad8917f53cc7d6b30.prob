@@ -1,0 +1,1 @@
+{"name":"Local: 18","url":"d:\\coding\\CP\\code forces\\800\\18. A_Grasshopper_on_a_Line.py","tests":[{"id":1742907670358,"input":"3\n10 2\n10 3\n3 4\n","output":"2\n7 3\n1\n10\n1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\CP\\code forces\\800\\18. A_Grasshopper_on_a_Line.py","group":"local","local":true}
