@@ -8,9 +8,9 @@ for _ in range(int(input())):
         print(-1)
     elif x2-x1==y2-y1:# incase in same st-line
         print(y2-y1)
-    elif x2<=x1:
-        y3 = (x1+x2-y1-y2)/2# will definately be int
-        x3 = (x1-x2-y1+y2)/2
-        print(y3-y1 + y2-y3)
     else:
-        print(-1)
+        x3 = y2-y1+x1
+        if x2<=x3:
+            print(y2-y1 + abs(x3-x2))
+        else:
+            print(-1)
