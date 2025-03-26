@@ -1,0 +1,1 @@
+{"name":"Local: 24","url":"d:\\coding\\CP\\code forces\\800\\24. A_We_Need_the_Zero.py","tests":[{"id":1743008282975,"input":"5\n3\n1 2 5\n3\n1 2 3\n4\n0 1 2 3\n4\n1 2 2 3\n1\n1\n","output":"6\n0\n3\n-1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\CP\\code forces\\800\\24. A_We_Need_the_Zero.py","group":"local","local":true}
