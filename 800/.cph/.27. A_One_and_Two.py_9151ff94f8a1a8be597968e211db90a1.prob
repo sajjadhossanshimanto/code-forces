@@ -1,0 +1,1 @@
+{"name":"Local: 27","url":"d:\\coding\\CP\\code forces\\800\\27. A_One_and_Two.py","tests":[{"id":1743059833093,"input":"3\n6\n2 2 1 2 1 2\n3\n1 2 1\n4\n1 1 1 1\n","output":"2\n-1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\CP\\code forces\\800\\27. A_One_and_Two.py","group":"local","local":true}
