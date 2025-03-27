@@ -3,7 +3,7 @@
 # WA code
 for _ in range(int(input())):
     n = int(input())
-    nums = list(filter(bool, map(int, input().split())))
+    nums = list(map(int, input().split()))
     # print(len(nums))
 
     total = 0
