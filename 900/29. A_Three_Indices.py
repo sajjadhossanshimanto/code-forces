@@ -1,27 +1,24 @@
 # https://codeforces.com/problemset/problem/1380/A
 
+#%% this might be fall
 for _ in range(int(input())):
     n = int(input())
     nums = list(map(int, input().split()))
-    nums.sort() # it haven't said that i can reorder
 
     i = 1
-    while nums[i-1]==nums[i] and i<=n:
+    while i<n and nums[i-1]>=nums[i]:
         i+=1
     if n==i:
         print("NO")
         continue
     
     i, j = i-1, i
-    while nums[j]==nums[j+1] and j<n:
+    while j<n-1 and nums[j]<=nums[j+1]:
         j+=1
     
-    if j==n-1 and nums[j]==nums[j-1]:
+    if j==n-1:
         print("NO")
         continue
 
     print("YES")
     print(i, j, j+1)
-
-
-
