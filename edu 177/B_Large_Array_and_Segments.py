@@ -22,6 +22,7 @@
 #     print(count*k)
 
 
+#%% grok gets tle at test case 4
 def solve_test_case(n, k, x, a):
     # Since b repeats a k times, first create prefix sums for one cycle
     prefix = [0] * (n + 1)
