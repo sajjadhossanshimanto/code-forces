@@ -41,4 +41,36 @@ for _ in range(int(input())):
             print(nums[n-1] - nums[min_pos])
         else:
             print(nums[max_pos] - nums[0])
+
+#%% bluth-force -> 
+# bluth force not always a bad thing actually
+""" my problem was it is not alwasys the same that ans will come from max or min element 
+any other adjoint may produce better results
+"""
+from itertools import islice
+
+
+for _ in range(int(input())):
+    n = int(input())
+    nums = list(map(int, input().split()))
+
+    mx = 0
+    # fix the 1st pos
+    # mx = max(mx, max(islice(nums, 1, n)) - nums[0])
+    # mx = max(mx, max(nums[1:]) - nums[0]) # ERROR: empty sequence in max function
+    for i in range(1, n):
+        mx = max(mx, nums[i] - nums[0])
     
+
+    # fix the last pos
+    # mx = max(mx, nums[-1] - min(islice(nums, n-1)))
+    # mx = max(mx, nums[-1] - nums[:n-1]) # ERROR: empty sequence in max function
+    for i in range(1, n):
+        mx = max(mx, nums[n-1] - nums[i])
+
+    # chose between any 2 adjoint
+    for i in range(1, n):
+        mx = max(mx, nums[i-1] - nums[i])
+
+    print(mx)
+
