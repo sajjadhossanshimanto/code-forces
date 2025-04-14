@@ -14,7 +14,11 @@ for _ in range(int(input())):
     l, r = 0, 0
     l1, r1 = 0, 0
     flag = True
-    while l<len(p):
+    while l<len(p) and l1<len(s):
+        if p[l]!=s[l1]: # i was stupid to not chek this
+            flag = False
+            break
+
         l, r = same_char(l, p)
         l1, r1 = same_char(l1, s)
 
@@ -24,6 +28,8 @@ for _ in range(int(input())):
         
         l = r
         l1 = r1
+    if flag:# simple edge case 
+        flag = l==len(p) and l1==len(s)
     
     if flag:
         print("YES")
