@@ -6,8 +6,7 @@ for _ in range(int(input())):
     n = int(input())
     nums = list(map(int, input().split()))
 
-    # list(map(lambda x:x.count("1"), zip_longest(*map(lambda x: x[2:][::-1], map(bin, nums)), fillvalue="0")))
-    set_bit = [0]*29
+    set_bit = [0]*30  # Fix: size 30 for bits 0 to 29
     for i in nums:
         i = bin(i)
         for j in range(len(i)-1, 1, -1):
@@ -29,4 +28,25 @@ for _ in range(int(input())):
         ans = max(total, ans)
 
     print(ans)
-
+#%%
+for _ in range(int(input())):
+    n = int(input())
+    nums = list(map(int, input().split()))
+    
+    set_bit = [0] * 30
+    for x in nums:
+        for bit in range(30):
+            if x & (1 << bit):
+                set_bit[bit] += 1
+    
+    ans = 0
+    for k in nums:
+        total = 0
+        for bit in range(30):
+            if k & (1 << bit):
+                total += (1 << bit) * (n - set_bit[bit])
+            else:
+                total += (1 << bit) * set_bit[bit]
+        ans = max(ans, total)
+    
+    print(ans)
