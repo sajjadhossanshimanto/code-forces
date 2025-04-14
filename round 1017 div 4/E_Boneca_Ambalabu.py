@@ -1,3 +1,4 @@
+# https://codeforces.com/contest/2094/problem/E
 from itertools import zip_longest
 
 
@@ -11,7 +12,7 @@ for _ in range(int(input())):
         i = bin(i)
         for j in range(len(i)-1, 1, -1):
             if i[j]=="1":
-                set_bit[len(i) - j] += 1
+                set_bit[len(i) - j-1] += 1
     
     # print(set_bit)
     ans = 0
@@ -19,7 +20,7 @@ for _ in range(int(input())):
         k = bin(k)
         total = 0
         for i in range(len(k)-1, 1, -1):
-            pos_value = len(k) -i
+            pos_value = len(k) -i-1
             if k[i]=="0":
                 total += (1<<pos_value)*set_bit[pos_value]
             else:
